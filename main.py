@@ -13,6 +13,7 @@ import requests
 open_get_weather ="False"
 # 设置获取天气的地区（上面开启后必填）如：area = "宁波"
 area = "深圳"
+print(sys.argv)
 
 # 以下如果看不懂直接默认就行只需改上面
 
